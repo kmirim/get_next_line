@@ -1,5 +1,5 @@
-# get_next_line
-A function that always returns the next line from a file descriptor.
+<h1 align="center"> get_next_line </h1>
+<p align="center"> A function that always returns the next line from a file descriptor. </p><br><br>
 
 <h2 align="center" #index> Index </h2>
 
