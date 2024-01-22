@@ -42,7 +42,7 @@ int ft_funcao() {
 ```
 
 <div id="memory"/>
-<h3 #memory> • 🐘 Memory </h3> 
+<br><h3 #memory> • 🐘 Memory </h3> 
 
 Quando falamos de memória em programação, nos referimos principalmente à RAM (Memória de Acesso Aleatório). Como mostrado no diagrama acima, a RAM é composta de diferentes áreas.
 
