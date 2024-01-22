@@ -6,8 +6,8 @@ A function that always returns the next line from a file descriptor.
 <p align="center"> • 
   <a href="#Static_variables"> Static variables </a> •
   <a href="#memory">Memory</a> • 
-  <a href="#read_function">read()function</a> •
-  <a href="#linked_list">linked list</a>
+  <a href="#read_function">Read()function</a> •
+  <a href="#linked_list">Linked list</a>
 </p><br><br>
 
 <div id="Static_variables"/>
@@ -46,7 +46,7 @@ int ft_funcao() {
 
 Quando falamos de memória em programação, nos referimos principalmente à RAM (Memória de Acesso Aleatório). Como mostrado no diagrama acima, a RAM é composta de diferentes áreas.
 
-<img src="https://github.com/kmirim/get_next_line/assets/132582320/34494edb-c756-47c7-9e91-d553eec96dc2" />
+<br><img src="https://github.com/kmirim/get_next_line/assets/132582320/34494edb-c756-47c7-9e91-d553eec96dc2" />
 
 1. **Stack (Pilha):**
     - A pilha é a memória reservada como espaço de rascunho para um thread de execução.
