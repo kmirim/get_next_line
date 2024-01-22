@@ -7,10 +7,11 @@ A function that always returns the next line from a file descriptor.
   <a href="#Static_variables"> Static variables </a> •
   <a href="#memory">Memory</a> • 
   <a href="#read_function">read()function</a> •
-  <a href="#linked list">linked list</a>
+  <a href="#linked_list">linked list</a>
 </p><br><br>
 
-<h3 #Static_variables> • Static variables </h3>
+<div id="Static_variables"/>
+<h3 #Static_variables> • ♻️ Static variables </h3>
 
 [Variáveis estáticas](https://www.geeksforgeeks.org/static-variables-in-c/) têm a propriedade de preservar seu valor mesmo depois de saírem de seu escopo! Conseqüentemente, variáveis estáticas preservam seu valor anterior no escopo anterior e não são inicializadas novamente no novo escopo.
 
@@ -39,7 +40,9 @@ int ft_funcao() {
     return count;
 }
 ```
-<h3 #memory> • Memory </h3> 
+
+<div id="memory"/>
+<h3 #memory> • 🐘 Memory </h3> 
 
 Quando falamos de memória em programação, nos referimos principalmente à RAM (Memória de Acesso Aleatório). Como mostrado no diagrama acima, a RAM é composta de diferentes áreas.
 
@@ -75,8 +78,8 @@ cima.
     
     Em resumo, a memória de dados estáticos em C é usada para armazenar variáveis que mantêm seus valores entre chamadas de função e/ou durante toda a execução do programa. Isso fornece persistência de dados e um escopo controlado pelo programador.
 
-
-<h3 #read_function> • Read()function </h3>
+<div id="read_function"/>
+<br><h3 #read_function> • 👓 Read()function </h3>
   
 **Sintaxe da função Read() em linguagem C**
 
@@ -108,8 +111,8 @@ Se a função read() retornar com sucesso, ela retornará o número de bytes lid
 - **`BUFFER_SIZE`** é uma constante que define o tamanho do buffer, ou seja, quantos elementos (ou bytes) de dados podem ser armazenados temporariamente nesse buffer.
 - A escolha do tamanho do buffer pode ter impacto no desempenho e na eficiência de operações de leitura e gravação de dados. Se o buffer for muito pequeno, pode ser necessário realizar operações de leitura/gravação mais frequentes, o que pode ser ineficiente. Se o buffer for muito grande, pode levar a um uso excessivo de memória.
 
-
-<h3 #linked list> • linked list </h3>
+<div id="linked_list"/>
+<br><h3 #linked_list> • 🔗 Linked list </h3>
 
 ### Entendendo a definição de t_list:
 
