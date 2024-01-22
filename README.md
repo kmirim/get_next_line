@@ -1,7 +1,7 @@
 <h1 align="center"> get_next_line </h1>
 <p align="center">
   <img loading="lazy" src="https://img.shields.io/static/v1?label=Status&message=concluded&color=7159c1&style=for-the-badge&logo=ghost"/>
-</p>
+</p><br>
 <h2 align="center" #index> Index </h2>
 
 <p align="center"> • 
