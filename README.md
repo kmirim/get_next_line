@@ -9,7 +9,7 @@
   <a href="#memory">Memory</a> • 
   <a href="#read_function">Read()function</a> •
   <a href="#linked_list">Linked list</a>
-</p><br><br>
+</p><br>
 
 <div id="Static_variables"/>
 <h3 #Static_variables> • ♻️ Static variables </h3>
