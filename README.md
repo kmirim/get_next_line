@@ -50,11 +50,11 @@ Quando falamos de memória em programação, nos referimos principalmente à RAM
 <br><img src="https://github.com/kmirim/get_next_line/assets/132582320/34494edb-c756-47c7-9e91-d553eec96dc2" />
 
 1. **Stack (Pilha):**
-    - A pilha é a memória reservada como espaço de rascunho para um thread de execução.
-    - A **pilha** é gerenciada automaticamente pelo compilador e é onde a variável local é armazenada. O Stack move-se para baixo.
-    - A stack é usada para armazenar dados temporários, como variáveis locais e endereços de retorno de funções.
-    - Ela funciona como uma pilha real, onde os dados são empilhados e desempilhados na ordem em que são usados.
-    - Na maioria dos sistemas, a stack cresce para baixo na memória. Isso significa que, à medida que você empilha mais dados, a pilha "anda" para posições de endereço menores.
+- A pilha é a memória reservada como espaço de rascunho para um thread de execução.
+- A **pilha** é gerenciada automaticamente pelo compilador e é onde a variável local é armazenada. O Stack move-se para baixo.
+- A stack é usada para armazenar dados temporários, como variáveis locais e endereços de retorno de funções.
+- Ela funciona como uma pilha real, onde os dados são empilhados e desempilhados na ordem em que são usados.
+- Na maioria dos sistemas, a stack cresce para baixo na memória. Isso significa que, à medida que você empilha mais dados, a pilha "anda" para posições de endereço menores.
 2. **Heap (Monte):**
 - O **heap** é gerenciado pelo programador e é onde as variáveis alocadas dinamicamente são armazenadas em um programa C. O monte move-se para
 cima.
