@@ -96,7 +96,7 @@ Se a função read() retornar com sucesso, ela retornará o número de bytes lid
 ```c
 typedef struct
 {
-	char			*content; // atual
+	char			*content; // conteúdo do nó atual
 	struct t_list	*next; // próximo
 } t_list;
 ```
