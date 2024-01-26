@@ -14,7 +14,7 @@
 <div id="Static_variables"/>
 <h3 #Static_variables> • ♻️ Static variables </h3>
 
-[Variáveis estáticas](https://www.geeksforgeeks.org/static-variables-in-c/) têm a propriedade de preservar seu valor mesmo depois de saírem de seu escopo! Conseqüentemente, variáveis estáticas preservam seu valor anterior no escopo anterior e não são inicializadas novamente no novo escopo.
+[Variáveis estáticas](https://www.geeksforgeeks.org/static-variables-in-c/) têm a propriedade de preservar seu valor mesmo depois de saírem de seu escopo! Consequentemente, variáveis estáticas preservam seu valor anterior no escopo anterior e não são inicializadas novamente no novo escopo.
 
 As variáveis estáticas são úteis quando você deseja que uma variável mantenha seu valor entre chamadas de função, proporcionando persistência de dados durante toda a execução do programa. Isso pode ser útil em várias situações, como a contagem de chamadas de função, armazenamento de informações globais, etc.
 
