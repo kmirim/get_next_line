@@ -45,7 +45,7 @@ int ft_funcao() {
 <div id="memory"/>
 <br><h3 #memory> • 🐘 Memory </h3> 
 
-Quando falamos de memória em programação, nos referimos principalmente à RAM (Memória de Acesso Aleatório). Como mostrado no diagrama acima, a RAM é composta de diferentes áreas.
+Quando falamos de memória em programação, nos referimos principalmente à RAM (Memória de Acesso Aleatório). Como mostrado no diagrama abaixo, a RAM é composta de diferentes áreas.
 
 <br><img src="https://github.com/kmirim/get_next_line/assets/132582320/34494edb-c756-47c7-9e91-d553eec96dc2" />
 
