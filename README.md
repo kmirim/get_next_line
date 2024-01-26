@@ -18,30 +18,6 @@
 
 As variáveis estáticas são úteis quando você deseja que uma variável mantenha seu valor entre chamadas de função, proporcionando persistência de dados durante toda a execução do programa. Isso pode ser útil em várias situações, como a contagem de chamadas de função, armazenamento de informações globais, etc.
 
-Exemplo: 
-
-```c
-int ft_funcao(int count) 
-{
-	count = 0;
-	while (count < 10) 
-		count++;
-	return count;
-}
-```
-
-```c
-int ft_funcao() {
-    static int count = 0;
-
-    if (count > 10) {
-        count++;
-    }
-
-    return count;
-}
-```
-
 <div id="memory"/>
 <br><h3 #memory> • 🐘 Memory </h3> 
 
